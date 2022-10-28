@@ -1,4 +1,4 @@
-# Prelude-ZII-Sound-Card
+# Prelude ZII Sound Card
 A replica of the Prelude ZII sound card for the Amiga.
 
 ![pic1](prelude-front.png)
