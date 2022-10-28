@@ -6,7 +6,7 @@ A replica of the Prelude ZII sound card for the Amiga.
 ![pic2](back-mpegit.png)
 
 ## Info
-This is a replica of the Prelude ZII sound card for the Amiga. Original hardware design is by Thomas Wenzel, and the board was replicated by Alf24de. 
+This is a replica of the Prelude ZII sound card for the Amiga. Original hardware design is by Thomas Wenzel, and the board was replicated by Alf24de. Special thanks to TomSonic.
 \
 \
 Included in this repository is:
