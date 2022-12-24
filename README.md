@@ -19,6 +19,6 @@ Included in this repository is:
 * STL file for the slot bracket
 * Mouser cart for sourcing and ordering components
 * Interactive BOM & Placement HTML viewer
-\
+
 ## License
 The license is included in the repository. The GNU General Public License is a free, copyleft license for software and other kinds of works.
