@@ -17,7 +17,7 @@ Included in this repository is:
 * Mpegit Mach jed file
 * Mpegit gerber files
 * STL file for the slot bracket
-* Mouser cart for sourcing and ordering components -- [Updated Jan2024 Link](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4ca2728ed7)
+* Mouser cart for sourcing and ordering components -- [Updated January 2024 Link](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4ca2728ed7)
 * Interactive BOM & Placement HTML viewer
 
 ## License
