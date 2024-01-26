@@ -28,6 +28,9 @@ I am not the creator of this board/project, it is only being hosted here on my G
 \
 Original A1k thread: [Link](https://www.a1k.org/forum/index.php?threads/85465/)
 \
+Original Prelude information: [Link](http://amiga.resource.cx/exp/prelude)
+\
+Original MPEG-it! information: [Link](http://amiga.resource.cx/exp/mpegit)
 \
 MPEG-it! software external links:
 * AHI 4.18 https://aminet.net/driver/audio/ahiusr_4.18.lha
@@ -37,6 +40,4 @@ MPEG-it! software external links:
 * AmigaAmp 3.31 (3.32 has a bug in MHI handling that is currently being fixed) http://www.amigaamp.de/Binaries/AmigaAMP331-68k.lha
 \
 \
-Original Prelude information: [Link](http://amiga.resource.cx/exp/prelude)
-\
-Original MPEG-it! information: [Link](http://amiga.resource.cx/exp/mpegit)
+
