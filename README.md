@@ -39,5 +39,5 @@ MPEG-it! software external links:
 * Prelude.library 5.6 https://aminet.net/driver/audio/PreludeLib.lha
 * mhimpegit 1.1 https://aminet.net/driver/audio/mhimpegit.lha
 * Prelude Mixer 2.3 http://www.toms-home.de/Software/Prelude/PreludeMixer23.lha (Mixer must be started once after booting/rebooting the Amiga to enable the AUX-1 input that the MPEG-it! uses)
-* AmigaAmp 3.31 (3.32 has a bug in MHI handling that is currently being fixed) http://www.amigaamp.de/Binaries/AmigaAMP331-68k.lha
+* AmigaAmp 3.31 (3.32 has a bug in MHI handling) http://www.amigaamp.de/Binaries/AmigaAMP331-68k.lha
 
