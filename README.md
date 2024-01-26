@@ -24,7 +24,7 @@ Included in this repository is:
 The license is included in the repository. The GNU General Public License is a free, copyleft license for software and other kinds of works.
 
 ## Note
-I am not the creator of this board/project, it is only being hosted here on my Github.
+I am not the creator of this board/project, it is only being hosted here on my Github, so please check the A1k thread for updates or guidance from the community.
 \
 Original A1k thread: [Link](https://www.a1k.org/forum/index.php?threads/85465/)
 \
@@ -35,7 +35,6 @@ MPEG-it! software external links:
 * mhimpegit 1.1 https://aminet.net/driver/audio/mhimpegit.lha
 * Prelude Mixer 2.3 http://www.toms-home.de/Software/Prelude/PreludeMixer23.lha (Mixer must be started once after booting/rebooting the Amiga to enable the AUX-1 input that the MPEG-it! uses)
 * AmigaAmp 3.31 (3.32 has a bug in MHI handling that is currently being fixed) http://www.amigaamp.de/Binaries/AmigaAMP331-68k.lha
-
 \
 \
 Original Prelude information: [Link](http://amiga.resource.cx/exp/prelude)
